@@ -16,7 +16,7 @@ Username: admin
 Password: 9925
 9. For user panel
 
-http://localhost/scms/user  (user panel)
+http://localhost/scms/users  (user panel)
 
 Credential for user panel :
 
